@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessLogic/BusinessLogic.csproj" />
+  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="Model/Model.csproj" />
+  <Project Path="WinFormsApp/WinFormsApp.csproj" />
+</Solution>
